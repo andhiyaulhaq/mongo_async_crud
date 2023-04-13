@@ -1,0 +1,2 @@
+20230410	13:53:08	a50b1e56-08df-4d02-ab33-d19f91abd424	Error: Not allowed by CORS
+20230410	17:50:32	bf7d70a3-90f0-4657-95a0-3c60dd6f3adf	TypeError: Cannot read properties of null (reading 'message')
